@@ -1,0 +1,12 @@
+i.icon {
+  /*i.icons -- icons that have the class icon*/
+  font-size: 2em; -- double the size of the container
+}
+
+.container.main { /*We target something that has both of this classes*/
+  margin-top: 7.0em;
+}
+
+#delete {
+  display: inline;
+}
