@@ -11,11 +11,6 @@ var data = [
     title: "Sunflower",
     image: "https://images.pexels.com/photos/546232/pexels-photo-546232.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
     body: "Sunflower Sunflower Sunflower"
-  },
-  {
-    title: "Christmas",
-    image: "https://images.pexels.com/photos/730192/pexels-photo-730192.jpeg?w=940&h=650&auto=compress&cs=tinysrgb",
-    body: "Christmas Christmas Christmas"
   }
 ];
 

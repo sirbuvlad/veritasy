@@ -14,4 +14,4 @@ var blogSchema = new mongoose.Schema({
 });
 //var Blog = mongoose.model("Blog", blogSchema);
 
-module.exports = mongoose.model("Blog", blogSchema); //Trebuie sa aratam ce dorim sa exportam din acest file.
+module.exports = mongoose.model("Blog", blogSchema);
